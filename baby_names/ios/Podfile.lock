@@ -172,9 +172,9 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   BoringSSL: e10f92a27043805c01071fe815a5cd98ae8212e7
-  cloud_firestore: 980813a98d8beb5c321b589845fabf6c4c5bd571
+  cloud_firestore: cd6e849ecb8ab43e5a7a5f1f169304ca65436c03
   Firebase: 9190018e296139d938b99521cde0c15a6e8d2946
-  firebase_core: c96aa8b2fcf7f5167d32f22034f502f9304952b8
+  firebase_core: ce5006bb48508ee4e71e0f429a3f519bb8ee2961
   FirebaseAnalytics: 63202d2665de4e6adcbdce189135255d8b5962ba
   FirebaseAuth: 9299ab178271bec7426967b05b2718bb6fc31f17
   FirebaseAuthInterop: 0ffa57668be100582bb7643d4fcb7615496c41fc
@@ -182,7 +182,7 @@ SPEC CHECKSUMS:
   FirebaseDatabase: e2bcbc106adc4b11a2da3ec2eb63c0c4a44f2f54
   FirebaseFirestore: 6dc97a9685c421767cc96bf644fc963166cddbe7
   FirebaseInstanceID: e2fa4cb35ef5558c200f7f0ad8a53e212215f93e
-  Flutter: 9d0fac939486c9aba2809b7982dfdbb47a7b0296
+  Flutter: 58dd7d1b27887414a370fcccb9e645c08ffd7a6a
   GoogleAppMeasurement: 5029d78f2b438bd30ffb44e6c558b57c21622727
   GoogleUtilities: bb6ff5a302c97a0bc9820dad775505778c5a2676
   gRPC: 9d4c549f37c7cef22478634bac7a0405b6e3dbfb
@@ -197,4 +197,4 @@ SPEC CHECKSUMS:
 
 PODFILE CHECKSUM: 9bfe4b224e73eeea88567d274289ddc410359699
 
-COCOAPODS: 1.5.2
+COCOAPODS: 1.7.4
