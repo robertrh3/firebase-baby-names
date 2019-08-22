@@ -1,6 +1,9 @@
 # baby_names
 
-A new Flutter project.
+Firebase project -
+- Added Firebase functionality to a Flutter app
+- Connected app to Cloud Firestore for data syncing
+- Updated a Cloud Firestore database using a transaction
 
 ## Getting Started
 
