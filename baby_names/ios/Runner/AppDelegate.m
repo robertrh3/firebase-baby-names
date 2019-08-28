@@ -1,4 +1,5 @@
 #include "AppDelegate.h"
+@import UIKit;
 @import Firebase;
 #include "GeneratedPluginRegistrant.h"
 
@@ -11,8 +12,7 @@
   [GeneratedPluginRegistrant registerWithRegistry:self];
   // Override point for customization after application launch.
   [FIRApp configure];
-  FIRFirestore *defaultFirestore = [FIRFirestore firestore];
-  return [super application:application didFinishLaunchingWithOptions:launchOptions];
+  return YES;
 }
 
 @end
